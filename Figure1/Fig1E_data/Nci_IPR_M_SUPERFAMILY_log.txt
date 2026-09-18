@@ -1,0 +1,33 @@
+-----------------------------------------------------------
+Family information: IPR_M_SUPERFAMILY_count_CAFE
+Log: Nci_IPR_M_SUPERFAMILY_log.txt
+The number of families is 933
+Root Family size : 1 ~ 1172
+Family size : 0 ~ 1125
+P-value: 0.01
+Num of Threads: 16
+Num of Random: 1000
+Lambda Tree: (1,(((1,(1,(1,1)1)1)1,1)1,(1,1)1)1)
+Empirical Prior Estimation Result: (16 iterations)
+Poisson lambda: 0.693575 & Score: inf
+Lambda : 0.00084306053702 & Score: -inf
+.Lambda : 0.00088521356387 & Score: -inf
+.Lambda : 0.00080090751016 & Score: -inf
+.Lambda : 0.00082198402359 & Score: -inf
+.Lambda : 0.00086413705044 & Score: -inf
+.Lambda : 0.00085359879373 & Score: -inf
+.Lambda : 0.00083252228030 & Score: -inf
+.Lambda : 0.00083779140866 & Score: -inf
+.Lambda : 0.00084832966537 & Score: -inf
+.Lambda : 0.00084569510119 & Score: -inf
+.Lambda : 0.00084042597284 & Score: -inf
+.Lambda : 0.00084174325493 & Score: -inf
+.Lambda : 0.00084437781910 & Score: -inf
+.Lambda : 0.00084371917806 & Score: -inf
+.
+Lambda Search Result: 6
+Lambda : 0.00084306053702 & Score: inf
+DONE: Lambda Search or setting, for command:
+lambda -s -t (1,(((1,(1,(1,1)1)1)1,1)1,(1,1)1)1) 
+Running Viterbi algorithm....
+Report Done

@@ -1,0 +1,7 @@
+# y, xstart, xend, rotation, color, label, va,  bed
+ .7,     .1,    .8,      0,      , Ne. nigropictus, top, Nap_r.bed
+ .5,     .1,    .8,       0,      , Ne. cincticeps, top, Nci.bed
+ .3,     .1,    .8,     0,      , R. dorsalis, bottom, Ido_r.bed
+# edges
+e, 0, 1, Nci_Nap.collinearity.anchors.simple
+e, 1, 2, Nci_Ido.collinearity.anchors.simple
